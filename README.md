@@ -44,9 +44,9 @@ Docker + Docker Compose
 ## 📂 Estrutura de Pastas
 graphql
 Copiar código
-creative-board/
-├── frontend/         # Interface com React
-├── backend/          # API REST com Express
-├── assets/           # Imagens para o README
-├── docker-compose.yml
+creative-board/ <br>
+├── frontend/         # Interface com React<br>
+├── backend/          # API REST com Express<br>
+├── assets/           # Imagens para o README<br>
+├── docker-compose.yml<br>
 └── README.md
